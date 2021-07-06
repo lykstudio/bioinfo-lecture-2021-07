@@ -1,5 +1,20 @@
 #! /usr/bin/env python
 
+# try1
+
+r = 3
+pi = 3.14
+
+circle = pi*r**2
+print(circle)
+
+
+
+
+
+
+
+
 
 import math
 import sys
