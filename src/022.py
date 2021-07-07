@@ -1,6 +1,7 @@
 #! /usr/bin/env python
 
-Seq1 = "AGTTTATAG"
-seq = Seq1[3:6]
 
-print(seq)
+Seq1 = "AGTTTATAG"
+data = Seq1[3:6]
+print(data)
+

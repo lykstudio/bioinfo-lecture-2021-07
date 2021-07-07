@@ -1,6 +1,7 @@
 #! /usr/bin/env python
 
 Seq1 = "AGTTTATAG"
-seq6 = Seq1[5]
+data = Seq1[5]
+print(data)
 
-print(seq6)
+

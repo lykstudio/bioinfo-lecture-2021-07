@@ -1,2 +1,3 @@
 Seq1 = "AGTTTATAG"
-print(len(Seq1))
+a = len(Seq1)
+print(a)
